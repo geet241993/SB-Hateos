@@ -1,6 +1,8 @@
 package com.element.bind;
 
 public class Employee {
+
+
 	private Integer empId;
 	private String name;
 	private String address;
